@@ -1,4 +1,4 @@
-# PyDNSRecon
+# PyDNSRecon (Deprecated)
 
 A tool that collects DNS records from the 3 resources and tools that create unique findings
 
