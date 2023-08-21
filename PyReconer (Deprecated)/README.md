@@ -1,4 +1,4 @@
-# Docker - PyReconer
+# Docker - PyReconer (Deprecated)
 
 A Dockerized tool written in Python to perform recon
 
