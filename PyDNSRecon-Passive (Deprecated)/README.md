@@ -1,4 +1,4 @@
-# PyDNSRecon-Passive
+# PyDNSRecon-Passive (Deprecated)
 
 A tool that collects DNS records from the 4 resources and tools that create unique findings
 
