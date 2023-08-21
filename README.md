@@ -1,4 +1,4 @@
-# Offensive Containers
+# Arsenal Containers
 
 Leveraging container technologies to build offensive security tools
 
