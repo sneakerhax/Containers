@@ -45,11 +45,11 @@ Running the tool after building the image
 * Ngrok (instructions only)
 * Nmap (Includes ncrack)
 * Nmap-small
-* PyDNSRecon
-* PyDNSRecon-Passive
-* PyDNSRecon-m1
+* PyDNSRecon (Deprecated)
+* PyDNSRecon-Passive (Deprecated)
+* PyDNSRecon-m1 (Deprecated)
 * Pyfiscan
-* PyReconer
+* PyReconer (Deprecated)
 * Searchsploit
 * Shodan
 * Ultra-Recon
