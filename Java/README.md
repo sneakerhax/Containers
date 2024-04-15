@@ -1,4 +1,4 @@
-# Java
+# Java (OpenJDK)
 
 A Dockerized Java environment used for exploitation (with wget for pulling jar files)
 
