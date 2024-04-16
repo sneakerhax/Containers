@@ -37,6 +37,7 @@ Running the tool after building the image
 * HardCIDR
 * Infra
     * socat-http-redirector
+* Java (OpenJDK)
 * Kali-Linux
 * Linode_cli
 * Metasploit
