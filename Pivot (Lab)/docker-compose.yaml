@@ -1,0 +1,13 @@
+services:
+  pivot-1:
+    container_name: pivot-1
+    build:
+      dockerfile: ssh.Dockerfile
+    tty: true
+    ports:
+      - 2222:22
+  pivot-2:
+    container_name: pivot-2
+    build:
+      dockerfile: apache.Dockerfile
+    tty: true
