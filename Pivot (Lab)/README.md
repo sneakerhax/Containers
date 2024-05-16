@@ -16,6 +16,12 @@ docker-compose down
 
 Delete the lab (locally)
 
+```
+docker-compose build
+```
+
+Rebuild the images (locally)
+
 ## SSH to the pivot host
 
 ```
