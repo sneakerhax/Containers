@@ -46,6 +46,7 @@ Running the tool after building the image
 * Ngrok (instructions only)
 * Nmap (Includes ncrack)
 * Nmap-small
+* Pivot (Lab)
 * PyDNSRecon (Deprecated)
 * PyDNSRecon-Passive (Deprecated)
 * PyDNSRecon-m1 (Deprecated)
