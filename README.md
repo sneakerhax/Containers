@@ -1,10 +1,10 @@
 # Arsenal Containers
 
-Leveraging container technologies to build offensive security tools
+Leveraging container technologies to build Red Team tools
 
-## Containerized Offensive Security Tools
+## Containerized Red Team Tools
 
-Containers are an effective way to configure, deploy, and use offensive security tools. 
+Containers are an effective way to configure, deploy, and use Red Team tools. 
 
 Containerizing offensive security tools provides the following benefits:
 
@@ -12,7 +12,7 @@ Containerizing offensive security tools provides the following benefits:
 * Documented setup process (Dockerfiles)
 * Deployable to cloud services (e.g. recon scans, c2 infra, team services)
 
-For more information on Containerizing tools check out these [resources](https://github.com/sneakerhax/Arsenal/blob/main/Tools/Docker/README.md)
+For more information on setting up Docker check out [resources](https://github.com/sneakerhax/Arsenal/blob/main/Tools/Docker/README.md)
 
 ## Docker (Building and Running locally)
 
