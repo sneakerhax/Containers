@@ -6,7 +6,7 @@ Leveraging container technologies to build Red Team tools
 
 Containers are an effective way to configure, deploy, and use Red Team tools. 
 
-Containerizing offensive security tools provides the following benefits:
+Containerizing Red Team tools provides the following benefits:
 
 * Consistent setup and configuration (Single command builds)
 * Documented setup process (Dockerfiles)
