@@ -1,4 +1,4 @@
-# Arsenal Containers
+Containers
 
 Leveraging container technologies to build Red Team tools
 
