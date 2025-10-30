@@ -1,4 +1,3 @@
-# https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#socat-for-http
 FROM kalilinux/kali-rolling
 EXPOSE 80
 RUN apt update && apt upgrade -y

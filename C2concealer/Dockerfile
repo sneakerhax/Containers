@@ -1,5 +1,3 @@
-# A dockerized version of the tool C2Concealer by Chris Truncer
-
 FROM kalilinux/kali-rolling
 RUN apt-get update
 

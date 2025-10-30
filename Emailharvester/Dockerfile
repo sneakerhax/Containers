@@ -1,5 +1,3 @@
-# A dockerized version of the tool emailharvester by maldevel
-
 FROM python:alpine
 
 RUN apk -U upgrade && apk add git

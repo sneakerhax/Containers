@@ -1,5 +1,3 @@
-# A dockerized version of the tool pyfiscan by fgeek
-
 FROM python:alpine
 
 RUN apk -U upgrade && apk add git
