@@ -1,6 +1,6 @@
 # Socat HTTP Redirector
 
-A Dockerized Socat HTTP redirector
+A Dockerized Socat HTTP redirector based on the socat for HTTP section of bluscreenofjeff's Red Team Infrastructure Wiki
 
 ## Build image
 
