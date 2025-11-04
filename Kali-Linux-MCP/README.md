@@ -5,19 +5,19 @@ A Dockerized version of Kali Linux by Offensive Security
 ## Building the image
 
 ```
-docker build -t kalilinux .
+docker build -t kalilinux-mcp .
 ```
 
 ## Running the container
 
 ```
-docker run -it kalilinux /bin/bash
+docker run -p5000:5000 -it kalilinux-mcp /bin/bash
 ```
 
 Running Docker container and entering bash shell
 
 ```
-docker run -t -d kalilinux
+docker run -t -p5000:5000 -d kalilinux-mcp
 ```
 
 Create persistent container
