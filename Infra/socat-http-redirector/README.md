@@ -19,4 +19,4 @@ docker run -d -p 80:80 socat-http-redirector
 
 ## References
 
-* https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#socat-for-http
+* [Red Team Infrastructure Wiki - socat for HTTP](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#socat-for-http)
