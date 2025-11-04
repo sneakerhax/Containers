@@ -28,4 +28,6 @@ apt install -y <metapackage>
 
 Install metapackage for specific tools MCP server will access
 
-Kali Linux Metapackages: https://www.kali.org/docs/general-use/metapackages/
+References:
+* Kali Linux MCP - https://www.kali.org/tools/mcp-kali-server/
+* Kali Linux Metapackages - https://www.kali.org/docs/general-use/metapackages/
