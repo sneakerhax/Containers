@@ -1,5 +1,5 @@
 # build and push nmap-small to Docker Hub
-docker buildx build --platform linux/amd64,linux/arm64 -t sneakerhax/nmap-small -f Nmap-small/Dockerfile Nmap-small/ --push
+docker buildx build --platform linux/amd64,linux/arm64,linux/arm/v6 -t sneakerhax/nmap-small -f Nmap-small/Dockerfile Nmap-small/ --push
 # docker push sneakerhax/nmap-small:latest
 
 # build and push nmap to Docker Hub
@@ -11,5 +11,5 @@ docker buildx build --platform linux/amd64,linux/arm64 -t sneakerhax/metasploit 
 # docker push sneakerhax/metasploit:latest
 
 # build and push wordlists to Docker Hub
-docker buildx build --platform linux/amd64,linux/arm64 -t sneakerhax/wordlists -f Wordlists/Dockerfile Wordlists/ --push
+docker buildx build --platform linux/amd64,linux/arm64,linux/arm/v6 -t sneakerhax/wordlists -f Wordlists/Dockerfile Wordlists/ --push
 # docker push sneakerhax/wordlists:latest
