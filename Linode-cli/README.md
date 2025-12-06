@@ -42,6 +42,6 @@ linode-cli stackscripts list --mine true
 List the StackScripts created by you.
 
 ## References
-* https://www.linode.com/docs/products/tools/cli/guides/install/
+* [Install the CLI](https://techdocs.akamai.com/cloud-computing/docs/getting-started-with-the-linode-cli)
 
 
