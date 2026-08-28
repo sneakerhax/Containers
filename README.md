@@ -2,8 +2,8 @@ Containers
 
 Leveraging container technologies to build Red Team tools
 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-FADA5E.svg?logo=python)](https://www.python.org/) [![golang](https://img.shields.io/badge/golang-1.17+-29BEB0.svg?logo=GO)](https://go.dev/)
-[![Docker](https://img.shields.io/badge/docker-required-0db7ed.svg?logo=docker)](https://www.docker.com/) [![PEP8](https://img.shields.io/badge/code%20style-pep8-red.svg)](https://www.python.org/dev/peps/pep-0008/) [![License](https://img.shields.io/badge/license-GPL3-lightgrey.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) [![Twitter](https://img.shields.io/badge/twitter-sneakerhax-38A1F3?logo=twitter)](https://twitter.com/sneakerhax)
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-FADA5E.svg?logo=python)](https://www.python.org/) [![PEP8](https://img.shields.io/badge/code%20style-pep8-red.svg)](https://www.python.org/dev/peps/pep-0008/) [![golang](https://img.shields.io/badge/golang-1.23+-29BEB0.svg?logo=GO)](https://go.dev/)
+[![Docker](https://img.shields.io/badge/docker-required-0db7ed.svg?logo=docker)](https://www.docker.com/) [![Github Copilot](https://img.shields.io/badge/github-copilot-C06EFF.svg?logo=github-copilot)](https://github.com/features/copilot) [![Claude Code](https://img.shields.io/badge/claude-code-C15f3C.svg?logo=claude)](https://claude.ai/) [![License](https://img.shields.io/badge/license-GPL3-lightgrey.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Containerized Red Team Tools
 
